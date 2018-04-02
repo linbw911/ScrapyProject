@@ -1,0 +1,16 @@
+2017年1-8月海上丝路贸易指数
+每一项数据用列表存放，按顺序分别为进出口贸易指数，出口贸易指数，进口贸易指数
+每一项数据标题均为英文简写，易推得
+
+STI  海上丝路贸易指数
+Southeast_Asia  东南亚地区
+South_Asia  南亚地区
+Middle_East  中东地区
+Red_Sea  红海地区
+Central_Eastern_Europe  中东欧地区
+
+主要运输货类贸易情况
+STI_Container  集装箱类
+STI_Bulk  散货类
+STI_Liquid  液货类
+
